@@ -1,0 +1,30 @@
+{
+  "name": "simplon",
+  "version": "1.0.0",
+  "description": "CRUD api Node.js Express and mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamafr/CRUD.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "adama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamafr/CRUD.git"
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
